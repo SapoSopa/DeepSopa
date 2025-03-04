@@ -27,4 +27,4 @@ O dataset Iris é utilizado para treinar e avaliar o modelo. Ele está localizad
 
 ## Observações
 
-Esta atividade foi desenvolvido como parte do curso IF867 - Projetos 2024.2. O objetivo é desenvolver um modelo MLP de aprendizagem profunda.
+Esta atividade foi desenvolvido como parte do curso IF867 - Introdução à Aprendizagem Profunda 2024.2. O objetivo é desenvolver um modelo MLP de aprendizagem profunda.
